@@ -1,4 +1,4 @@
-# questão 3 - Pares d eprimos ímpares consecutivos < 1000000
+# questão 3 - Pares de primos ímpares consecutivos < 1000000
 # by Anielly & Israel
 
 limite = 1000000 # limite superior
