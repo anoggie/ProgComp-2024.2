@@ -1,4 +1,4 @@
-# questão 2 - Quantidade de palíndromos entre 10 e 100000
+# questão 2 - Quantidade de números palíndromos entre 10 e 100000
 # by Anielly & Israel
 
 contador = 0 # inicializa o contador de palíndromos
